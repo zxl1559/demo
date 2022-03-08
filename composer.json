@@ -1,0 +1,17 @@
+{
+    "name": "zxl/demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zxl\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhouxiaolong",
+            "email": "936140285@qq.com"
+        }
+    ],
+    "require": {}
+}
